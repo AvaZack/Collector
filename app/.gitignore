@@ -1,0 +1,7 @@
+/build
+
+# Proguard files
+proguard-rules.pro
+
+# Res files
+src/main/res/
